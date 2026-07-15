@@ -1,0 +1,7 @@
+output/*
+images/source/*
+*.img
+*.iso
+*.dmg
+*.bin
+*.sha256
